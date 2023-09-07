@@ -17,7 +17,7 @@ len(person)
 print(len(person))
 
 def check_hobbies(person):
-  if len(person)["hobiies"] > 3:
+  if len(person ["hobbies"]) > 3:
      print('wow you are ama')
   else:  
       print('Falus')
